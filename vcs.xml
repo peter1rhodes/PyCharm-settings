@@ -10,9 +10,13 @@
           <option name="url" value="https://gitlab.com/p19r93/Speccy/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="p19r93" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Peter.Rhodes\OneDrive - Kromek\Documents\Coding" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Coding" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
