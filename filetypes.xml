@@ -6,6 +6,8 @@
       <mapping pattern="Interactive plot testing" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern="Hello World" type="Python" />
+      <mapping pattern="Objects" type="Python" />
+      <mapping pattern="something" type="Python" />
     </extensionMap>
   </component>
 </application>
