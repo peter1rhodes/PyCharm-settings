@@ -18,8 +18,12 @@
           <option name="url" value="https://gitlab.com/p19r93/ssleagues" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TWJubb/XrayUtilities.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\peter.rhodes\OneDrive - Kromek\Documents\Coding\Practice\Python" />
+    <option name="cloneParentDir" value="C:\Users\Peter\Google Drive\Documents\Computing_Other" />
   </component>
 </application>
