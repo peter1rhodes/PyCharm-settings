@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="runner" type="PLAIN_TEXT" />
+      <mapping pattern="players.txt" type="PLAIN_TEXT" />
       <mapping pattern="Interactive plot testing" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="junk" type="PLAIN_TEXT" />
