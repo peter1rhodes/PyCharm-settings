@@ -18,6 +18,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="PyQt5.QtWidgets.clicked.connect" />
+        <option value="PyQt5.QtWidgets.cellChanged.connect" />
       </list>
     </option>
   </inspection_tool>
