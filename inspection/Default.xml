@@ -21,6 +21,7 @@
         <option value="PyQt5.QtWidgets.cellChanged.connect" />
         <option value="PyQt5.QtWidgets.rejected.connect" />
         <option value="PyQt5.QtWidgets.accepted.connect" />
+        <option value="PyQt5.QtWidgets.triggered.connect" />
       </list>
     </option>
   </inspection_tool>
