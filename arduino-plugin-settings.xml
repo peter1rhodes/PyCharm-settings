@@ -1,8 +1,5 @@
 <application>
   <component name="Arduino Support Settings">
-    <boardCpuMap>
-      <entry key="uno" value="" />
-    </boardCpuMap>
     <option name="port" value="/dev/ttyACM0" />
     <option name="portHistory">
       <option value="/dev/ttyACM0" />
