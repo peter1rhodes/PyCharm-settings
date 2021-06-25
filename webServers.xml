@@ -7,6 +7,9 @@
       <webServer id="b345c0ff-f34e-45bd-9271-07d4b074264f" name="WSL (b345c0ff-f34e-45bd-9271-07d4b074264f)" url="http:///">
         <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="8da7288d-fcb5-4734-81a5-b8068b4bffa6" sshConfig="peter@localhost:2222 password" />
       </webServer>
+      <webServer id="216185f5-a6cd-4d6d-ad0c-ed9ac29c2282" name="WSL (216185f5-a6cd-4d6d-ad0c-ed9ac29c2282)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="8da7288d-fcb5-4734-81a5-b8068b4bffa6" sshConfig="peter@localhost:2222 password" />
+      </webServer>
     </option>
   </component>
 </application>
