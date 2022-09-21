@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="102c5ed3-ce29-40ba-9562-ddd8da629a1e" name="tom@192.168.1.71:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.1.71" port="22" sshConfigId="afc0c8ec-d465-47aa-bb86-08224cbd7363" sshConfig="tom@192.168.1.71:22 key" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</application>

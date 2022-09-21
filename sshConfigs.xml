@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.71" id="afc0c8ec-d465-47aa-bb86-08224cbd7363" keyPath="\\wsl$\Ubuntu-20.04\home\peter\.ssh\id_ed25519" port="22" nameFormat="DESCRIPTIVE" username="tom" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</application>
