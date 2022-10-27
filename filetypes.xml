@@ -7,6 +7,7 @@
       <mapping pattern="site_main_script" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
+      <mapping ext="fastq" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="mako" approved="true" type="Python" />
