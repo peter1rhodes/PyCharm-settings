@@ -1,8 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="102c5ed3-ce29-40ba-9562-ddd8da629a1e" name="tom@192.168.1.71:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="192.168.1.71" port="22" sshConfigId="afc0c8ec-d465-47aa-bb86-08224cbd7363" sshConfig="tom@192.168.1.71:22 key" keyPair="true" />
+      <webServer id="102c5ed3-ce29-40ba-9562-ddd8da629a1e" name="GPU2 bio-predictor-development" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.1.126" port="22" sshConfigId="74b066ac-d7c0-4369-8182-a57310c73c66" sshConfig="secuser@192.168.1.126:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
       </webServer>
     </option>
   </component>

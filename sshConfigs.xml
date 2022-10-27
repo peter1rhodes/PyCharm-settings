@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.71" id="afc0c8ec-d465-47aa-bb86-08224cbd7363" keyPath="\\wsl$\Ubuntu-20.04\home\peter\.ssh\id_ed25519" port="22" nameFormat="DESCRIPTIVE" username="tom" useOpenSSHConfig="false" />
+      <sshConfig host="192.168.1.126" id="74b066ac-d7c0-4369-8182-a57310c73c66" keyPath="\\wsl$\Ubuntu-20.04\home\peter\.ssh\id_ed25519" port="22" nameFormat="DESCRIPTIVE" username="secuser" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>

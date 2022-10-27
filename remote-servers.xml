@@ -1,10 +1,11 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="GPU2 Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
+        <option name="apiUrl" value="http://127.0.0.1" />
         <option name="certificatesPath" />
-        <option name="connected" value="true" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="74b066ac-d7c0-4369-8182-a57310c73c66" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
       </configuration>
     </remote-server>
   </component>
